@@ -1,40 +1,151 @@
 # SYD-MKT-000 MEDIA PLAN
 
-One course should generate multiple distribution assets.
+## COURSE
+
+Financial Markets Orientation & Platform Onboarding
 
 ---
 
-# YOUTUBE PLAYLIST
+# YOUTUBE MASTER TITLE
 
-## Playlist Title
-
-SYD 000 — Get On the Platform
-
-Videos:
-
-1. Start Here
-2. Account Security
-3. What Is a Wallet?
-4. How Funding Works
-5. What Is a Network?
-6. Stablecoins and Collateral
-7. Funding the Platform
-8. What Are You Actually Trading?
-9. Observe Before You Trade
-10. Know the Exit Before You Enter
+SYD Financial Markets — Start Here
 
 ---
 
-# YOUTUBE SHORTS
+# VIDEO 1
 
-Potential Shorts:
+## Welcome to SYD Financial Markets & Technology
 
-- Never share your seed phrase.
+Core message:
+
+MARKETS FIRST.
+
+TECHNOLOGY NEXT.
+
+CRYPTO LAST.
+
+---
+
+# VIDEO 2
+
+## The Five Markets You Need to Know
+
+Cover:
+
+- stocks,
+- indices,
+- commodities,
+- FX,
+- private / Pre-IPO.
+
+---
+
+# VIDEO 3
+
+## Security Before Money
+
+Account protection before market exposure.
+
+---
+
+# VIDEO 4
+
+## Learn the Platform Before You Trade
+
+Navigate:
+
+- markets,
+- charts,
+- orders,
+- positions,
+- history,
+- exit.
+
+---
+
+# VIDEO 5
+
+## The Symbol Is Not the Instrument
+
+Examples:
+
+S&P 500
+
+Gold
+
+Private-company name
+
+Explain why the label is not enough.
+
+---
+
+# VIDEO 6
+
+## Funding, Collateral, and Exposure
+
+Explain why:
+
+deposit
+
+does not necessarily equal:
+
+market exposure.
+
+---
+
+# VIDEO 7
+
+## Observe Before You Predict
+
+Separate:
+
+observation
+
+from
+
+interpretation.
+
+---
+
+# VIDEO 8
+
+## Market Order vs Limit Order
+
+Basic execution.
+
+---
+
+# VIDEO 9
+
+## Know the Exit Before You Enter
+
+Position exit.
+
+Account exit.
+
+Withdrawal path.
+
+---
+
+# VIDEO 10
+
+## Your Financial Market Onboarding Map
+
+Walk through the final assessment.
+
+---
+
+# SHORTS
+
+Potential clips:
+
 - The symbol does not define the instrument.
-- Wallet vs exchange.
-- What network are you using?
+- Company name does not equal equity ownership.
 - Know the exit before you enter.
-- No trade is a valid decision.
+- Learn the room before you move the money.
+- Observation precedes interpretation.
+- Security is financial literacy.
+- Crypto is not the front door.
 
 ---
 
@@ -42,34 +153,47 @@ Potential Shorts:
 
 Article:
 
-"How to Get Onto a Decentralized Trading Platform Without Becoming a Blockchain Engineer First"
+## Before You Make a Trade, Answer These Seven Questions
+
+1. What market?
+2. What instrument?
+3. What platform?
+4. What collateral?
+5. What execution method?
+6. What risk?
+7. What exit?
 
 ---
 
-# TELEGRAM WIRE
+# UNIVERSITY VERSION
 
-Public posts:
+Future university media package should progressively include:
 
-- onboarding checklist,
-- fake-admin warning,
-- instrument-identification graphic,
-- withdrawal checklist.
-
----
-
-# THE FLOOR
-
-This course does not require THE FLOOR.
-
-THE FLOOR begins with live formal-call access.
+- captions,
+- transcripts,
+- faculty guide,
+- accessible slides,
+- assessment keys,
+- learning-outcome mappings.
 
 ---
 
-# GITHUB
+# APPLIED LAB
 
-Permanent:
+GDex may appear in demonstrations.
 
-- syllabus,
-- assessment,
-- rubric,
-- learner-feedback revisions.
+The academic video titles should remain primarily vendor neutral.
+
+Example:
+
+Prefer:
+
+"How to Identify a Financial Instrument"
+
+over:
+
+"Which Button to Click on GDex"
+
+unless the video is explicitly labeled:
+
+GDex Applied Lab.
