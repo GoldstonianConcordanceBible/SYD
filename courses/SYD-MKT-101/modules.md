@@ -139,3 +139,93 @@ Evaluate:
 - discipline,
 - luck,
 - repeatability.
+
+# MODULE 11 — STOCKS
+
+Use familiar companies to repeat the framework.
+
+Initial cases:
+
+Apple
+
+Alphabet
+
+Tesla
+
+Moderna
+
+---
+
+# MODULE 12 — COMMODITIES
+
+Introduce:
+
+Gold
+
+Silver
+
+Oil
+
+Natural Gas
+
+Focus on how commodity catalysts differ from company catalysts.
+
+---
+
+# MODULE 13 — FOREX
+
+Introduce:
+
+currency pairs,
+
+macro conditions,
+
+central banks,
+
+interest-rate expectations,
+
+currency risk.
+
+---
+
+# MODULE 14 — PRE-IPO MARKETS
+
+Teach the learner to distinguish:
+
+PRIVATE COMPANY
+
+from
+
+THE PRODUCT PROVIDING EXPOSURE TO THAT COMPANY.
+
+Instrument identification is mandatory.
+
+---
+
+# MODULE 15 — CROSS-MARKET COMPARISON
+
+The learner compares:
+
+one stock,
+
+one index,
+
+one commodity,
+
+one FX market,
+
+one Pre-IPO product.
+
+For each:
+
+MARKET:
+
+ACTUAL INSTRUMENT:
+
+PRIMARY CATALYSTS:
+
+VOLATILITY:
+
+INVALIDATION STYLE:
+
+KEY RISKS:
