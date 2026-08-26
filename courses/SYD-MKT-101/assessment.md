@@ -1,30 +1,42 @@
-# FINAL ASSESSMENT — MARKET THESIS + AFTER-ACTION REVIEW
+# SYD-MKT-101 FINAL ASSESSMENT
 
-## PART 1 — INSTRUMENT IDENTIFICATION
+## PART 1 — MARKET LITERACY
 
-Identify:
+Explain:
 
-Market:
+EQUITY:
 
-Displayed symbol:
+INDEX:
 
-Actual instrument:
-
-Venue / protocol:
-
-Collateral if applicable:
-
-Leverage if applicable:
-
-Expiration if applicable:
+FINANCIAL INSTRUMENT:
 
 ---
 
-# PART 2 — THESIS CARD
+# PART 2 — INSTRUMENT IDENTIFICATION
 
-Complete:
+DISPLAYED MARKET:
 
-ASSET / MARKET:
+ACTUAL INSTRUMENT:
+
+PROVIDER / ISSUER:
+
+VENUE:
+
+LEVERAGE:
+
+COLLATERAL:
+
+EXPIRATION:
+
+SETTLEMENT:
+
+SOURCE:
+
+---
+
+# PART 3 — MARKET THESIS CARD
+
+MARKET:
 
 INSTRUMENT:
 
@@ -36,9 +48,9 @@ THESIS:
 
 SUPPORTING EVIDENCE:
 
-INVALIDATION:
-
 CATALYSTS:
+
+INVALIDATION:
 
 MATERIAL RISKS:
 
@@ -46,88 +58,81 @@ NEXT REVIEW:
 
 ---
 
-# PART 3 — SCENARIO UPDATE
+# PART 4 — CASE-001
 
-The learner receives new market information.
+Using the documented case evidence:
 
-Answer:
+Identify:
 
-1. Does the thesis remain valid?
-2. Should the thesis be updated?
-3. Has invalidation occurred?
-4. What evidence supports the decision?
+T0:
 
----
+T1:
 
-# PART 4 — AFTER-ACTION REVIEW
+T2:
 
-Separate:
+T3:
 
-PROCESS QUALITY
+T4:
+
+T5:
+
+For each event distinguish:
+
+EVENT
 
 from
 
-OUTCOME.
+INTERPRETATION.
 
 ---
 
-# PART 5 — CROSS-MARKET ANALYSIS
+# PART 5 — AFTER-ACTION REVIEW
 
-Select one market from each category available in the course:
+Evaluate:
 
-STOCK
+THESIS QUALITY:
 
-INDEX
+EVIDENCE QUALITY:
 
-COMMODITY
+INVALIDATION QUALITY:
 
-FOREX
+RISK ANALYSIS:
 
-PRE-IPO
+PROCESS QUALITY:
 
-For each identify:
+OUTCOME:
 
-Market name:
+WHAT WAS REPEATABLE:
 
-Displayed symbol:
-
-Actual instrument:
-
-Primary catalyst:
-
-Major risk:
-
-Potential thesis:
-
-Invalidation:
+WHAT SHOULD CHANGE:
 
 ---
-
-# COMMODITY REQUIREMENT
-
-Analyze at least one of:
-
-Gold
-
-Silver
-
-Oil
-
-Natural Gas
-
----
-
-# OBJECTIVE
-
-Demonstrate that the SYD market-analysis framework can be transferred across different traditional markets without confusing the market name with the actual instrument.
 
 # PASSING STANDARD
 
 80%.
 
-Critical requirements:
+---
 
-- actual instrument identified,
-- explicit invalidation,
-- material risk identified,
-- no fabricated evidence.
+# CRITICAL REQUIREMENTS
+
+A learner cannot pass while:
+
+- materially confusing the index with the actual instrument,
+- failing to define invalidation,
+- fabricating historical evidence,
+- rewriting post-outcome information as pre-outcome knowledge.
+
+---
+
+# RESUBMISSION
+
+Corrections may be submitted.
+
+---
+
+# PROFIT REQUIREMENT
+
+None.
+
+The assessment measures decision quality and market literacy.
