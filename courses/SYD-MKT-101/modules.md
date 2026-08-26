@@ -1,5 +1,21 @@
 # MODULES
 
+# MODULE 0 — THE TRADITIONAL MARKET UNIVERSE
+
+Before focusing on the S&P 500, learners examine the market categories available inside the GDex TradFi environment.
+
+Categories include:
+
+- Stocks
+- Indices
+- Commodities
+- FX
+- Pre-IPO
+
+The purpose is not to master every market immediately.
+
+The purpose is to understand that the same disciplined analytical framework can travel across multiple markets.
+
 ## MODULE 1 — WHAT IS THE S&P 500?
 
 The index.
