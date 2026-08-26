@@ -1,62 +1,146 @@
-# SYD-MKT-000 — Get On the Platform
+# SYD-MKT-000 — Financial Markets Orientation & Platform Onboarding
 
-**Division:** SydTek Scholars  
-**Domain:** Market Onboarding  
-**Version:** v0.1.0  
-**Status:** DESIGN  
+**Institution:** SydTek Scholars  
+**Program:** SYD Financial Markets & Technology  
+**Domain:** Financial Markets Orientation  
+**Version:** v0.2.0  
+**Status:** ALPHA  
 **Price:** FREE  
-**Estimated Learning Time:** 60–90 minutes
+**Estimated Learning Time:** 60–90 minutes  
+**Live Capital Required:** NO  
+**Token Required:** NO  
+**Crypto Required:** NO
 
 ---
 
 # PURPOSE
 
-This course moves a learner from:
+SYD-MKT-000 moves a beginner from:
 
-**ZERO**
+ZERO
 
 to
 
-**OPERATIONAL**
+OPERATIONAL MARKET LITERACY.
 
-inside the SYD market-learning environment.
+The learner should leave this course able to navigate a financial-market environment without confusing:
 
-The learner should finish able to explain:
-
-- how an account is secured,
-- what a wallet is,
-- how funds move,
-- what network is being used,
-- what a stablecoin or collateral asset is,
-- how a platform is funded,
-- what instrument is actually being traded,
-- how to withdraw again.
+- the market,
+- the symbol,
+- the platform,
+- the instrument,
+- the account,
+- the collateral,
+- the transaction.
 
 ---
 
-# WHY THIS COURSE IS FREE
+# THE FIRST PRINCIPLE
 
-SYD should not charge someone simply to understand how to enter the environment safely.
+## LEARN THE MARKET BEFORE THE TECHNOLOGY.
 
-This is the foundation for everything that follows.
+This course begins with financial markets people already recognize.
+
+The learner may encounter:
+
+- Stocks
+- Indices
+- Commodities
+- Foreign Exchange
+- Private / Pre-IPO Markets
+
+Blockchain and digital assets are not required for completion.
 
 ---
 
-# CORE PATH
+# THE MARKET UNIVERSE
 
-FIAT / EXISTING FUNDS
+Initial categories include:
+
+## STOCKS
+
+Examples:
+
+Apple  
+Alphabet  
+Tesla  
+Moderna
+
+## INDICES
+
+Example:
+
+S&P 500
+
+## COMMODITIES
+
+Examples:
+
+Gold  
+Silver  
+Crude Oil  
+Natural Gas
+
+## FOREIGN EXCHANGE
+
+Examples:
+
+EUR/USD  
+GBP/USD  
+USD/JPY
+
+## PRIVATE / PRE-IPO MARKETS
+
+Products referencing private companies or anticipated future public companies.
+
+---
+
+# THE MOST IMPORTANT QUESTION
+
+A platform may display:
+
+APPLE
+
+S&P 500
+
+GOLD
+
+OIL
+
+EUR/USD
+
+or the name of a private company.
+
+That is not enough.
+
+The learner must ask:
+
+> WHAT AM I ACTUALLY TRADING?
+
+The actual instrument might be:
+
+- a share,
+- ETF,
+- future,
+- option,
+- synthetic product,
+- perpetual product,
+- derivative,
+- another market-linked structure.
+
+---
+
+# CORE PROCESS
+
+SECURE ACCESS
 
 ↓
 
-ON-RAMP / EXCHANGE / WALLET
+UNDERSTAND THE PLATFORM
 
 ↓
 
-SUPPORTED NETWORK
-
-↓
-
-PLATFORM
+IDENTIFY THE MARKET CATEGORY
 
 ↓
 
@@ -64,55 +148,134 @@ IDENTIFY THE ACTUAL INSTRUMENT
 
 ↓
 
-OBSERVE / SIMULATE / TRADE IF APPROPRIATE
+UNDERSTAND FUNDING / COLLATERAL
 
 ↓
 
-WITHDRAW
+OBSERVE
+
+↓
+
+UNDERSTAND EXECUTION
+
+↓
+
+KNOW THE EXIT
+
+↓
+
+DOCUMENT
 
 ---
 
-# MOST IMPORTANT LESSON
+# CORE DOCTRINE
 
-## THE SYMBOL DOES NOT DEFINE THE INSTRUMENT.
+## KNOW THE EXIT BEFORE YOU ENTER.
 
-Seeing:
-
-AAPL
-
-SPX
-
-SPY
-
-TSLA
-
-MRNA
-
-BTC
-
-does not automatically tell the learner what legal or economic product they are interacting with.
-
-The course must teach the learner to identify:
-
-- stock,
-- ETF,
-- index,
-- derivative,
-- perpetual,
-- synthetic exposure,
-- tokenized representation,
-- other product.
+A learner should understand how an account or position is exited before committing meaningful capital.
 
 ---
 
-# COURSE OUTCOME
+# VENDOR-NEUTRAL ACADEMIC CORE
 
-By completion, the learner should be able to document the entire onboarding flow and identify the actual product being accessed.
+The concepts in this course are vendor neutral.
+
+A live platform may be used as the applied laboratory.
+
+GDex may serve as the primary laboratory during initial development.
+
+The curriculum must remain useful even if the laboratory changes.
 
 ---
 
-# NEXT STEP
+# GDEX ROLE
 
-Recommended next course:
+Where GDex is used, the learner may observe market categories such as:
 
-`SYD-MKT-101 — Trading the S&P 500: The Long Thesis`
+- Stocks
+- Indices
+- Commodities
+- FX
+- Pre-IPO
+
+GDex is the laboratory.
+
+SYD is the curriculum.
+
+---
+
+# NO LIVE MONEY REQUIRED
+
+Learners may complete the academic objectives using:
+
+- screenshots,
+- simulations,
+- paper trading,
+- historical examples,
+- approved demonstrations.
+
+The purpose is understanding.
+
+Not compulsory financial exposure.
+
+---
+
+# FINAL OUTPUT
+
+The learner produces:
+
+# THE FINANCIAL MARKET ONBOARDING MAP
+
+SOURCE OF FUNDS
+
+↓
+
+ACCOUNT / ACCESS METHOD
+
+↓
+
+PLATFORM
+
+↓
+
+MARKET CATEGORY
+
+↓
+
+ACTUAL INSTRUMENT
+
+↓
+
+ORDER / EXECUTION METHOD
+
+↓
+
+POSITION / EXPOSURE
+
+↓
+
+EXIT / WITHDRAWAL PATH
+
+---
+
+# NEXT COURSE
+
+SYD-MKT-101
+
+## Financial Markets I: Equity & Index Markets
+
+Primary case:
+
+CASE-001 — S&P 500 Long Thesis
+
+---
+
+# DOCTRINE
+
+## MARKETS FIRST.
+
+## TECHNOLOGY NEXT.
+
+## CRYPTO LAST.
+
+## EVIDENCE ALWAYS.
