@@ -182,9 +182,26 @@ Covers:
 - synthetic exposure,
 - tokenized representations.
 
+SYD-CMD-301 — Trading Gold
+
+SYD-CMD-302 — Trading Silver
+
+SYD-CMD-303 — Trading Oil
+
+SYD-CMD-304 — Trading Natural Gas
+
+SYD-FX-301 — Forex Foundations
+
+SYD-FX-302 — Currency Pairs
+
+SYD-PRE-301 — What Is Pre-IPO?
+
+SYD-PRE-302 — Pre-IPO Instrument Identification
+
 ### Doctrine
 
 THE SYMBOL DOES NOT DEFINE THE INSTRUMENT.
+
 
 ---
 
