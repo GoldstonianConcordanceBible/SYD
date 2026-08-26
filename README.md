@@ -2,7 +2,7 @@
 
 ## SYD Financial Markets & Technology
 
-### A SydTek Scholars Curriculum
+### A SydTek Academy Curriculum
 
 > **MARKETS FIRST → TECHNOLOGY NEXT → CRYPTO LAST → EVIDENCE ALWAYS.**
 
