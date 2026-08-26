@@ -1,62 +1,202 @@
-# FINAL ASSESSMENT — SYD ONBOARDING MAP
+# SYD-MKT-000 FINAL ASSESSMENT
 
-## PURPOSE
+## FINANCIAL MARKET ONBOARDING MAP
 
-Demonstrate that the learner understands how to enter, use, and exit the environment safely.
+The learner demonstrates that they can orient themselves inside a financial-market environment.
 
----
-
-# SUBMISSION
-
-Create a one-page onboarding map showing:
-
-1. source of funds,
-2. account or wallet,
-3. network,
-4. platform,
-5. actual instrument,
-6. withdrawal path.
+No live-money transaction is required.
 
 ---
 
-# REQUIRED EXPLANATION
+# PART 1 — PLATFORM
 
-For the selected market, answer:
+PLATFORM / LABORATORY:
 
-## What is the displayed symbol?
+DATE:
 
-## What is the actual instrument?
+ENVIRONMENT:
 
-## What collateral is used?
-
-## What network is involved?
-
-## How does the learner exit the platform?
+LIVE / SIMULATED / HISTORICAL:
 
 ---
 
-# SECURITY DECLARATION
+# PART 2 — MARKET CATEGORIES
 
-The submission must not contain:
+Identify one example of each available category:
 
-- seed phrase,
-- private key,
-- password,
-- API key,
-- bank credentials.
+STOCK:
+
+INDEX:
+
+COMMODITY:
+
+FOREIGN EXCHANGE:
+
+PRIVATE / PRE-IPO:
+
+If unavailable in the selected laboratory, write:
+
+NOT AVAILABLE.
+
+Do not fabricate.
 
 ---
 
-# REFLECTION
+# PART 3 — INSTRUMENT IDENTIFICATION
 
-Answer:
+Choose one displayed market.
 
-1. What confused you most?
-2. What security step matters most?
-3. What would you verify before moving real money?
+DISPLAYED NAME:
+
+SYMBOL:
+
+MARKET CATEGORY:
+
+ACTUAL INSTRUMENT:
+
+PROVIDER / ISSUER:
+
+LEVERAGE:
+
+COLLATERAL:
+
+EXPIRATION:
+
+SETTLEMENT:
+
+EVIDENCE SOURCE:
+
+If unresolved:
+
+PENDING VERIFICATION.
 
 ---
 
-# PASSING
+# PART 4 — SECURITY
 
-80% mastery and no critical security failure.
+List five security practices you applied or would apply.
+
+Do not provide actual credentials.
+
+---
+
+# PART 5 — MARKET OBSERVATION
+
+Choose one market.
+
+Record:
+
+PRICE:
+
+DATE:
+
+TIME:
+
+TIMEZONE:
+
+TIMEFRAME:
+
+RECENT HIGH:
+
+RECENT LOW:
+
+TREND:
+
+KNOWN CATALYST:
+
+Write five objective observations.
+
+---
+
+# PART 6 — EXECUTION
+
+Explain:
+
+MARKET ORDER:
+
+LIMIT ORDER:
+
+SPREAD:
+
+SLIPPAGE:
+
+LIQUIDITY:
+
+---
+
+# PART 7 — EXIT
+
+Document:
+
+HOW POSITION CLOSES:
+
+HOW ACCOUNT FUNDS CAN BE WITHDRAWN:
+
+SETTLEMENT / WAITING PERIOD:
+
+KNOWN FEES:
+
+KNOWN RESTRICTIONS:
+
+---
+
+# PART 8 — COMPLETE MAP
+
+Create:
+
+SOURCE
+
+↓
+
+ACCOUNT / ACCESS
+
+↓
+
+PLATFORM
+
+↓
+
+MARKET
+
+↓
+
+INSTRUMENT
+
+↓
+
+FUNDING / COLLATERAL
+
+↓
+
+EXECUTION
+
+↓
+
+EXIT
+
+---
+
+# CRITICAL REQUIREMENTS
+
+The learner cannot pass while:
+
+- exposing credentials,
+- materially misidentifying the instrument,
+- fabricating platform features,
+- failing to identify an exit path.
+
+---
+
+# PASSING STANDARD
+
+80%.
+
+Corrections may be submitted.
+
+---
+
+# NO PROFIT REQUIREMENT
+
+No grade is based upon market profit.
+
+This course assesses operational market literacy.
