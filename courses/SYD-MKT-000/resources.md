@@ -1,41 +1,94 @@
-# RESOURCES
+# SYD-MKT-000 RESOURCES
 
-## Official Platform Documentation
+## PURPOSE
 
-Add the canonical platform documentation used during the course.
-
----
-
-## Wallet Documentation
-
-Add official wallet documentation.
+Resources should prioritize authoritative documentation.
 
 ---
 
-## Network Documentation
+# FINANCIAL MARKETS
 
-Add official network documentation.
+Future institutional versions should include authoritative introductory material covering:
 
----
-
-## Security
-
-Add:
-
-- phishing guidance,
-- wallet-security resources,
-- approval/revocation guidance.
+- equities,
+- indices,
+- commodities,
+- foreign exchange,
+- private markets.
 
 ---
 
-# RESOURCE RULE
+# PLATFORM DOCUMENTATION
 
-Prefer:
+When GDex is used as the applied laboratory, preserve:
 
-official documentation
+- official documentation,
+- market-category documentation,
+- instrument descriptions,
+- fee information,
+- settlement information,
+- current screenshots where permitted.
 
-over
+Record the date because platform functionality may change.
 
-random social-media tutorials
+---
 
-for operational steps involving money or keys.
+# INSTRUMENT DOCUMENTATION
+
+Prefer primary or authoritative sources from:
+
+- issuer,
+- exchange,
+- venue,
+- platform,
+- regulator,
+- recognized market operator.
+
+---
+
+# COMPANY RESEARCH
+
+For public companies, later courses may use:
+
+- company investor-relations materials,
+- regulatory filings,
+- earnings reports.
+
+---
+
+# MARKET DATA
+
+Document:
+
+SOURCE:
+
+DATE:
+
+TIMEZONE:
+
+REAL-TIME / DELAYED / HISTORICAL:
+
+---
+
+# SECURITY
+
+Use current official platform guidance and established cybersecurity practices.
+
+---
+
+# PRE-IPO PRODUCTS
+
+For any private / Pre-IPO product, document:
+
+- provider,
+- instrument structure,
+- price mechanism,
+- settlement,
+- eligibility,
+- relationship to actual private-company equity.
+
+---
+
+# RESOURCE PRINCIPLE
+
+## IF THE INSTRUMENT MECHANICS MATTER, USE PRIMARY DOCUMENTATION WHERE POSSIBLE.
