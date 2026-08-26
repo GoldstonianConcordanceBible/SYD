@@ -2,111 +2,249 @@
 
 ## IDENTITY
 
-Course ID: SYD-MKT-000
+Course ID:
 
-Title: Get On the Platform
+SYD-MKT-000
 
-Version: v0.1.0
+Course Title:
 
-Division: SydTek Scholars
+Financial Markets Orientation & Platform Onboarding
 
-Domain: Market Onboarding
+Version:
 
-Status: DESIGN
+v0.2.0
 
----
+Institution:
 
-# EDUCATIONAL DESIGN
+SydTek Scholars
 
-Level: Orientation
+Program:
 
-Prerequisites: None
+SYD Financial Markets & Technology
 
-Estimated learning hours: 1.0–1.5
+Domain:
 
----
+Financial Markets Orientation
 
-# OUTCOMES
+Status:
 
-CLO-1: Explain onboarding flow.
-
-CLO-2: Apply basic account security.
-
-CLO-3: Distinguish wallet/network/platform.
-
-CLO-4: Explain movement of funds.
-
-CLO-5: Identify actual market instrument.
-
-CLO-6: Explain withdrawal.
+ALPHA
 
 ---
 
-# ASSESSMENT
+# ACADEMIC POSITIONING
 
-Assessment:
+Level:
 
-SYD Onboarding Map
+FOUNDATIONAL / ORIENTATION
 
-Passing standard:
+Institutional Core:
 
-80%
+YES
 
-Critical requirement:
+Vendor-Neutral Core:
 
-No private credentials exposed.
-
----
-
-# DELIVERY
-
-GitHub: YES
-
-YouTube: PLANNED
-
-Substack: PLANNED
-
-Telegram WIRE: PLANNED
-
-LMS / storefront: PLANNED
+YES
 
 ---
 
 # COMMERCIAL
 
-Price: FREE
+Individual Price:
 
-Token required: NO
+FREE
 
-Telegram THE FLOOR access included: NO
+Institutional Licensing:
+
+FUTURE / TBD
+
+Token Required:
+
+NO
+
+THE FLOOR Required:
+
+NO
+
+---
+
+# EDUCATIONAL DESIGN
+
+Estimated Hours:
+
+1–1.5
+
+Prerequisites:
+
+NONE
+
+---
+
+# COURSE LEARNING OUTCOMES
+
+CLO-1 — Market Categories
+
+CLO-2 — Security
+
+CLO-3 — Platform Literacy
+
+CLO-4 — Instrument Identification
+
+CLO-5 — Funding + Collateral
+
+CLO-6 — Observation
+
+CLO-7 — Execution
+
+CLO-8 — Exit Path
+
+---
+
+# PROGRAM MAPPING
+
+PLO-1 — Financial Market Literacy
+
+PLO-2 — Instrument Identification
+
+PLO-3 — Market Analysis
+
+PLO-4 — Risk + Invalidation
+
+PLO-5 — Market Structure
+
+PLO-10 — Evidence + Professional Judgment
+
+---
+
+# ASSESSMENT
+
+Financial Market Onboarding Map
+
+Passing Standard:
+
+80%
+
+Critical Criteria:
+
+- security,
+- instrument identification,
+- exit path.
+
+---
+
+# LABORATORY
+
+Primary Development Lab:
+
+GDex
+
+Vendor-Neutral Alternative:
+
+YES
+
+Simulation Allowed:
+
+YES
+
+Live Capital Required:
+
+NO
+
+Crypto Required:
+
+NO
+
+Wallet Required:
+
+NO unless laboratory requires it.
+
+---
+
+# DELIVERY
+
+GitHub:
+
+YES
+
+YouTube:
+
+PLANNED
+
+Substack:
+
+PLANNED
+
+LMS:
+
+PLANNED
+
+Classroom:
+
+FUTURE
 
 ---
 
 # RIGHTS
 
-Rights owner: TBD
+Course Rights Owner:
 
-Instructor: TBD
+TBD / CONTROL TOWER
 
-Content IDs: TBD
+Instructor:
 
-NIL IDs: TBD
+TBD
+
+Third-Party Platform Rights:
+
+REVIEW
+
+Market Data Rights:
+
+REVIEW
+
+---
+
+# ACADEMIC STATUS
+
+SydTek Scholars:
+
+ALPHA
+
+SydTek University:
+
+NOT YET FORMALLY REVIEWED
+
+External University:
+
+NO CURRENT CLAIM
+
+Academic Credit:
+
+NONE CURRENTLY CLAIMED
 
 ---
 
 # PROVENANCE
 
-Genesis commit: TBD
+Original Course Genesis:
 
-First live version: TBD
+PRESERVE ORIGINAL COMMIT
+
+Rebrand Version:
+
+v0.2.0
+
+Rebrand Commit:
+
+TBD
 
 ---
 
 # NEXT GATE
 
-Pilot with at least one real learner and record:
-
-- completion time,
-- confusion points,
-- assessment performance,
-- technical friction.
+1. Complete rebrand.
+2. Verify applied-lab instructions.
+3. Pilot with learner.
+4. Record completion time.
+5. Record confusion points.
+6. Revise to v0.3.0 or v1.0.0 as evidence warrants.
