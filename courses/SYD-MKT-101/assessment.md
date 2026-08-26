@@ -71,6 +71,56 @@ OUTCOME.
 
 ---
 
+# PART 5 — CROSS-MARKET ANALYSIS
+
+Select one market from each category available in the course:
+
+STOCK
+
+INDEX
+
+COMMODITY
+
+FOREX
+
+PRE-IPO
+
+For each identify:
+
+Market name:
+
+Displayed symbol:
+
+Actual instrument:
+
+Primary catalyst:
+
+Major risk:
+
+Potential thesis:
+
+Invalidation:
+
+---
+
+# COMMODITY REQUIREMENT
+
+Analyze at least one of:
+
+Gold
+
+Silver
+
+Oil
+
+Natural Gas
+
+---
+
+# OBJECTIVE
+
+Demonstrate that the SYD market-analysis framework can be transferred across different traditional markets without confusing the market name with the actual instrument.
+
 # PASSING STANDARD
 
 80%.
