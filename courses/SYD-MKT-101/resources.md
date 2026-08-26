@@ -2,76 +2,16 @@
 
 ## S&P 500
 
-# GDex MARKET LAB
+Future institutional version should include authoritative references covering:
 
-GDex is used as the initial live platform laboratory for this course.
-
-Relevant traditional-market categories observed in the platform interface include:
-
-- Stocks
-- Indices
-- Commodities
-- FX
-- Pre-IPO
-
-Platform availability and product design may change.
-
-Course materials should therefore preserve screenshots, dates, and product documentation for the version being taught.
+- index purpose,
+- methodology,
+- composition,
+- maintenance.
 
 ---
 
-# COMMODITY DOCUMENTATION
-
-As commodity modules are built, add official documentation for the exact products representing:
-
-Gold
-
-Silver
-
-Oil
-
-Natural Gas
-
-Do not assume that a market label identifies the instrument mechanics.
-
----
-
-# PRE-IPO DOCUMENTATION
-
-For each Pre-IPO product, document:
-
-- product provider,
-- economic structure,
-- price source,
-- settlement rules,
-- eligibility restrictions,
-- relationship, if any, to actual private-company shares.
-Add authoritative background references on:
-
-- index methodology,
-- index composition,
-- index maintenance.
-
----
-
-# ACTUAL CASE INSTRUMENT
-
-Once verified, add the official documentation for the exact instrument used in CASE-001.
-
----
-
-# MARKET DATA
-
-Document:
-
-- source,
-- timeframe,
-- timezone,
-- whether data is delayed or real-time.
-
----
-
-# CASE EVIDENCE
+# CASE-001
 
 See:
 
@@ -79,14 +19,57 @@ case-studies/CASE-001-SP500-LONG/
 
 ---
 
-# RESOURCE RULE
+# MARKET DATA
 
-When describing instrument mechanics, prefer documentation from:
+Every case should document:
 
-- issuer,
-- exchange,
-- protocol,
-- regulator,
-- official platform
+SOURCE:
 
-over unsourced social-media explanations.
+DATE:
+
+TIME:
+
+TIMEZONE:
+
+REAL-TIME / DELAYED / HISTORICAL:
+
+---
+
+# ACTUAL INSTRUMENT
+
+Once established, add authoritative documentation for:
+
+- product,
+- issuer / provider,
+- leverage,
+- collateral,
+- fees,
+- settlement,
+- expiration where applicable.
+
+---
+
+# EQUITY RESEARCH
+
+Later equity labs should prioritize:
+
+- company filings,
+- investor-relations materials,
+- earnings reports,
+- recognized market data.
+
+---
+
+# PLATFORM LAB
+
+If GDex is used:
+
+preserve current platform documentation and the date reviewed.
+
+Platform interfaces and products can change.
+
+---
+
+# SOURCE RULE
+
+## USE PRIMARY DOCUMENTATION WHERE THE PRODUCT MECHANICS MATTER.
