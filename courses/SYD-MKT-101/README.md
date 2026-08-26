@@ -1,156 +1,70 @@
-# SYD-MKT-101 — Trading the S&P 500: The Long Thesis
+# SYD-MKT-101 — The Stock Market on GDex
+
+## S&P 500 Long Thesis — Case Study 001
 
 **Division:** SydTek Scholars  
-**Domain:** Markets  
+**Domain:** Traditional Markets  
 **Version:** v0.1.0  
 **Status:** DESIGN  
 **Price Hypothesis:** $19  
-**Estimated Learning Time:** 90–120 minutes  
-**Case Study:** CASE-001-SP500-LONG
+**Estimated Learning Time:** 2–3 hours  
+**Primary Platform Laboratory:** GDex  
+**Flagship Case Study:** CASE-001-SP500-LONG
 
 ---
 
 # PURPOSE
 
-This course uses a documented historical or simulated S&P 500 long thesis to teach how a market idea becomes a structured decision.
+This is the foundational SYD stock-market course.
 
-The educational asset is not merely whether the trade won or lost.
+The learner uses one live market environment to understand multiple traditional-market categories.
 
-The educational asset is the decision process.
+The initial market universe includes:
 
----
+- Stocks
+- Indices
+- Commodities
+- Forex
+- Pre-IPO products
 
-# CORE QUESTION
+The course begins with the S&P 500 long thesis as its flagship historical case.
 
-> What did we know before the outcome?
+It then establishes a framework that can be reused across:
 
-Students reconstruct the case using only evidence that existed at each stage.
+Apple.
 
----
+Alphabet.
 
-# THE SYD MARKET PROCESS
+Tesla.
 
-OBSERVE
+Moderna.
 
-↓
+Gold.
 
-IDENTIFY THE INSTRUMENT
+Silver.
 
-↓
+Oil.
 
-FORM THE THESIS
+Natural Gas.
 
-↓
+Foreign exchange.
 
-DEFINE INVALIDATION
-
-↓
-
-IDENTIFY RISK
-
-↓
-
-DOCUMENT THE CALL
-
-↓
-
-UPDATE
-
-↓
-
-CLOSE
-
-↓
-
-AFTER-ACTION REVIEW
+Pre-IPO markets.
 
 ---
 
-# IMPORTANT DISTINCTION
+# COURSE BOUNDARY
 
-The S&P 500 itself is an index.
+This course does not require crypto.
 
-A learner may encounter exposure through:
+Bitcoin, Ethereum, Solana, DeFi, and crypto-native markets are taught separately.
 
-- an ETF,
-- futures,
-- options,
-- synthetic products,
-- perpetual products,
-- other derivatives,
-- tokenized or on-chain representations.
+The purpose here is simple:
 
-The historical case must identify the exact instrument actually used.
+## LEARN THE STOCK MARKET.
 
-Until verified, the course should display:
+## LEARN HOW MARKETS MOVE.
 
-**ACTUAL CASE INSTRUMENT: PENDING EVIDENCE REVIEW**
+## LEARN HOW TO FORM A THESIS.
 
-Do not infer the instrument from the words "S&P 500."
-
----
-
-# THE HISTORICAL CASE
-
-Case ID:
-
-**CASE-001-SP500-LONG**
-
-The case should preserve:
-
-- original evidence,
-- original timestamp,
-- original thesis,
-- actual instrument,
-- reference / entry context,
-- invalidation,
-- updates,
-- close,
-- result,
-- after-action review.
-
-Do not rewrite the historical thesis after seeing the outcome.
-
----
-
-# EDUCATIONAL BOUNDARY
-
-This course is educational.
-
-It is not an instruction to open the same position today.
-
-Market conditions change.
-
-Instruments differ.
-
-Risk differs.
-
-Execution differs.
-
----
-
-# FINAL OUTPUT
-
-The learner produces:
-
-## A COMPLETE MARKET THESIS CARD
-
-and
-
-## AN AFTER-ACTION REVIEW
-
----
-
-# NEXT COURSES
-
-Recommended:
-
-**SYD-TRD-408 — Thesis Invalidation**
-
-**SYD-TRD-409 — Position Sizing**
-
-**SYD-TRD-412 — Trading Journal**
-
-Then:
-
-**SYD-MKT-110 — Trading Apple**
+## LEARN HOW TO KNOW WHEN THE THESIS IS WRONG.
