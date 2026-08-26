@@ -1,0 +1,166 @@
+catalog:
+  name: SYD Master Course Catalog
+  institution: SydTek Scholars
+  version: 0.1.0
+  status: active-development
+
+doctrine:
+  - MARKET FIRST
+  - RAILS SECOND
+  - CRYPTO THIRD
+  - EVIDENCE ALWAYS
+
+courses:
+
+  - id: SYD-MKT-000
+    title: Get On the Platform
+    domain: markets
+    status: design
+    price_usd: 0
+    priority: day-zero
+
+  - id: SYD-MKT-001
+    title: What Are You Actually Trading?
+    domain: markets
+    status: idea
+    price_usd: 12
+    priority: high
+
+  - id: SYD-MKT-101
+    title: "Trading the S&P 500: The Long Thesis"
+    domain: markets
+    status: design
+    price_usd: 19
+    priority: day-zero
+    case_study: CASE-001
+
+  - id: SYD-MKT-110
+    title: Trading Apple
+    domain: markets
+    status: idea
+    price_usd: 19
+    priority: high
+
+  - id: SYD-MKT-120
+    title: Trading Alphabet
+    domain: markets
+    status: idea
+    price_usd: 19
+    priority: high
+
+  - id: SYD-MKT-130
+    title: Trading Tesla
+    domain: markets
+    status: idea
+    price_usd: 19
+    priority: high
+
+  - id: SYD-MKT-201
+    title: "Trading Moderna: The Short Thesis"
+    domain: markets
+    status: design
+    price_usd: 29
+    priority: day-zero
+    case_study: CASE-002
+
+  - id: SYD-TRD-408
+    title: Thesis Invalidation
+    domain: trading
+    status: idea
+    price_usd: 12
+    priority: high
+
+  - id: SYD-TRD-409
+    title: Position Sizing
+    domain: trading
+    status: idea
+    price_usd: 19
+    priority: high
+
+  - id: SYD-TRD-412
+    title: Trading Journal
+    domain: trading
+    status: idea
+    price_usd: 19
+    priority: high
+
+  - id: SYD-CHAIN-501
+    title: What Is Happening Under the Hood?
+    domain: blockchain
+    status: idea
+    price_usd: 29
+    priority: high
+
+  - id: SYD-BTC-600
+    title: Bitcoin Foundations
+    domain: bitcoin
+    status: idea
+    price_usd: 29
+
+  - id: SYD-ETH-700
+    title: Ethereum Foundations
+    domain: ethereum
+    status: idea
+    price_usd: 29
+
+  - id: SYD-SOL-800
+    title: Solana Foundations
+    domain: solana
+    status: idea
+    price_usd: 29
+
+  - id: SYD-TKN-901
+    title: "Token Laboratory: $C"
+    domain: token
+    status: idea
+    price_usd: 29
+    affiliated_asset: true
+    conflict_disclosure_required: true
+
+  - id: SYD-TKN-902
+    title: "Token Laboratory: $GCB"
+    domain: token
+    status: idea
+    price_usd: 29
+    affiliated_asset: true
+    conflict_disclosure_required: true
+
+  - id: SYD-TKN-903
+    title: "Token Laboratory: $SYD"
+    domain: token
+    status: idea
+    price_usd: 29
+    affiliated_asset: true
+    conflict_disclosure_required: true
+
+  - id: SYD-DAPP-508
+    title: Build a Decentralized Market Interface
+    domain: decentralized-platform
+    status: idea
+    price_usd: 149
+    priority: flagship-future
+
+  - id: SYD-NIL-503
+    title: The NIL Passport
+    domain: rights
+    status: idea
+    price_usd: 49
+
+  - id: SYD-CTL-508
+    title: Build a Control Tower
+    domain: operating-system
+    status: idea
+    price_usd: 149
+    priority: flagship-future
+
+  - id: SYD-GOL-508
+    title: Build the Golgotha Production Passport
+    domain: golgotha
+    status: idea
+    price_usd: 99
+
+  - id: SYD-GCB-507
+    title: Build a Concordance System
+    domain: gcb
+    status: idea
+    price_usd: 99
