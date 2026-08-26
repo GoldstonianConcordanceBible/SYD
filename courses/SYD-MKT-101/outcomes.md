@@ -1,89 +1,89 @@
 # COURSE LEARNING OUTCOMES
 
-## CLO-1
+## CLO-1 — EQUITIES VS INDICES
 
-Explain what the S&P 500 represents and why it is not itself a corporate stock.
+Distinguish an individual equity from a market index.
 
----
+Maps to:
 
-## CLO-2
-
-Distinguish the S&P 500 index from an instrument used to gain market exposure.
+PLO-1 — Financial Market Literacy
 
 ---
 
-## CLO-3
+# CLO-2 — S&P 500 LITERACY
 
-Explain the meaning of a long market thesis.
+Explain what the S&P 500 is intended to represent.
 
----
+Maps to:
 
-## CLO-4
-
-Construct a thesis using observable evidence.
+PLO-1 — Financial Market Literacy
 
 ---
 
-## CLO-5
+# CLO-3 — INSTRUMENT IDENTIFICATION
 
-Define an explicit condition that would invalidate the thesis.
+Distinguish the S&P 500 index from a financial instrument used to obtain exposure to it.
 
----
+Maps to:
 
-## CLO-6
-
-Identify material market and instrument risks.
+PLO-2 — Instrument Identification
 
 ---
 
-## CLO-7
+# CLO-4 — OBSERVATION
 
-Reconstruct a market case chronologically without hindsight editing.
+Record objective market observations without presenting them as predictions.
 
----
+Maps to:
 
-## CLO-8
-
-Perform an after-action review that separates decision process from outcome.
+PLO-3 — Market Analysis
 
 ---
 
-## CLO-9
+# CLO-5 — THESIS CONSTRUCTION
 
-Distinguish stocks, indices, commodities, foreign exchange, and Pre-IPO market products.
+Construct a bounded market thesis supported by observable evidence.
 
----
+Maps to:
 
-## CLO-10
-
-Apply the SYD thesis framework across multiple traditional-market categories.
+PLO-3 — Market Analysis
 
 ---
 
-## CLO-11
+# CLO-6 — INVALIDATION
 
-Explain why commodity catalysts may differ materially from equity catalysts.
+Define an observable condition that would materially weaken or invalidate a thesis.
+
+Maps to:
+
+PLO-4 — Risk + Invalidation
 
 ---
 
-## CLO-12
+# CLO-7 — RISK
 
-Identify the actual instrument behind a Pre-IPO or commodity market label.
+Identify material risks associated with a market thesis and its actual instrument.
 
-# PROGRAM OUTCOME MAPPING
+Maps to:
 
-CLO-1 → PLO-1 Market Literacy
+PLO-4 — Risk + Invalidation
 
-CLO-2 → PLO-2 Instrument Identification
+---
 
-CLO-3 → PLO-3 Thesis Construction
+# CLO-8 — CHRONOLOGY
 
-CLO-4 → PLO-3 Thesis Construction
+Reconstruct a historical market case while preserving the distinction between pre-outcome evidence and hindsight.
 
-CLO-5 → PLO-4 Risk and Invalidation
+Maps to:
 
-CLO-6 → PLO-4 Risk and Invalidation
+PLO-10 — Evidence + Professional Judgment
 
-CLO-7 → PLO-5 Evidence and Documentation
+---
 
-CLO-8 → PLO-6 Reflective Analysis
+# CLO-9 — AFTER-ACTION REVIEW
+
+Evaluate process quality separately from financial outcome.
+
+Maps to:
+
+PLO-10 — Evidence + Professional Judgment
