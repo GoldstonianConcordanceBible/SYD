@@ -108,6 +108,15 @@ Case original timestamp: TBD
 
 First release: TBD
 
+Primary Case:
+CASE-001-SP500-LONG
+
+Secondary Market Laboratories:
+Stocks
+Indices
+Commodities
+Forex
+Pre-IPO
 ---
 
 # NEXT GATE
