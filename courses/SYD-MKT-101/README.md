@@ -1,70 +1,293 @@
-# SYD-MKT-101 — The Stock Market on GDex
+# SYD-MKT-101 — Financial Markets I: Equity & Index Markets
 
-## S&P 500 Long Thesis — Case Study 001
-
-**Division:** SydTek Scholars  
-**Domain:** Traditional Markets  
-**Version:** v0.1.0  
-**Status:** DESIGN  
+**Institution:** SydTek Scholars  
+**Program:** SYD Financial Markets & Technology  
+**Version:** v0.2.0  
+**Status:** ALPHA  
+**Domain:** Equity + Index Markets  
 **Price Hypothesis:** $19  
 **Estimated Learning Time:** 2–3 hours  
-**Primary Platform Laboratory:** GDex  
-**Flagship Case Study:** CASE-001-SP500-LONG
+**Live Capital Required:** NO  
+**Token Required:** NO  
+**Crypto Required:** NO  
+**Primary Case:** CASE-001-SP500-LONG  
+**Primary Development Laboratory:** GDex  
+**Academic Core:** Vendor Neutral
 
 ---
 
 # PURPOSE
 
-This is the foundational SYD stock-market course.
+SYD-MKT-101 is the first flagship market-analysis course in SYD Financial Markets & Technology.
 
-The learner uses one live market environment to understand multiple traditional-market categories.
+The learner begins with one of the most recognizable market benchmarks in the world:
 
-The initial market universe includes:
+The S&P 500.
 
-- Stocks
-- Indices
-- Commodities
-- Forex
-- Pre-IPO products
+The S&P 500 historical long thesis becomes the first formal case used to teach:
 
-The course begins with the S&P 500 long thesis as its flagship historical case.
-
-It then establishes a framework that can be reused across:
-
-Apple.
-
-Alphabet.
-
-Tesla.
-
-Moderna.
-
-Gold.
-
-Silver.
-
-Oil.
-
-Natural Gas.
-
-Foreign exchange.
-
-Pre-IPO markets.
+- market identification,
+- instrument identification,
+- observation,
+- thesis construction,
+- invalidation,
+- risk,
+- chronology,
+- after-action review.
 
 ---
 
-# COURSE BOUNDARY
+# THE CENTRAL QUESTION
 
-This course does not require crypto.
+## WHAT DID WE KNOW BEFORE THE OUTCOME?
 
-Bitcoin, Ethereum, Solana, DeFi, and crypto-native markets are taught separately.
+The course does not begin with:
 
-The purpose here is simple:
+"Did the trade make money?"
 
-## LEARN THE STOCK MARKET.
+It begins with:
 
-## LEARN HOW MARKETS MOVE.
+What information existed before the outcome?
 
-## LEARN HOW TO FORM A THESIS.
+What was the thesis?
 
-## LEARN HOW TO KNOW WHEN THE THESIS IS WRONG.
+What would have invalidated it?
+
+What risk existed?
+
+What happened next?
+
+---
+
+# CORE PROCESS
+
+OBSERVE
+
+↓
+
+IDENTIFY THE MARKET
+
+↓
+
+IDENTIFY THE INSTRUMENT
+
+↓
+
+FORM THE THESIS
+
+↓
+
+DEFINE INVALIDATION
+
+↓
+
+IDENTIFY RISK
+
+↓
+
+DOCUMENT
+
+↓
+
+UPDATE
+
+↓
+
+CLOSE
+
+↓
+
+AFTER-ACTION REVIEW
+
+---
+
+# EQUITY + INDEX FOUNDATION
+
+This course introduces the distinction among:
+
+COMPANY
+
+STOCK
+
+INDEX
+
+FINANCIAL INSTRUMENT
+
+TRADE
+
+These are not interchangeable terms.
+
+---
+
+# INITIAL MARKET UNIVERSE
+
+The flagship case focuses on:
+
+S&P 500
+
+Future equity case laboratories extend the same framework to:
+
+Apple
+
+Alphabet
+
+Tesla
+
+Moderna
+
+Those cases may become separate SYD courses.
+
+---
+
+# IMPORTANT
+
+The S&P 500 is an index.
+
+A platform displaying:
+
+S&P 500
+
+does not automatically establish what instrument provides the market exposure.
+
+The actual historical instrument used in CASE-001 must be established from evidence.
+
+Until verified:
+
+**ACTUAL CASE INSTRUMENT: PENDING VERIFICATION**
+
+---
+
+# CASE-001
+
+CASE-001-SP500-LONG
+
+Historical S&P 500 Long Thesis
+
+The case record should preserve:
+
+- original timestamp,
+- original evidence,
+- original thesis,
+- actual instrument,
+- reference / entry context,
+- invalidation,
+- material risks,
+- updates,
+- close,
+- outcome,
+- after-action review.
+
+---
+
+# ANTI-HINDSIGHT RULE
+
+Do not rewrite the original thesis after seeing the outcome.
+
+Preserve:
+
+PRE-OUTCOME EVIDENCE
+
+separately from:
+
+POST-OUTCOME INTERPRETATION.
+
+---
+
+# VENDOR-NEUTRAL DESIGN
+
+The academic course teaches:
+
+Equity markets.
+
+Indices.
+
+Instrument identification.
+
+Thesis construction.
+
+Risk.
+
+GDex may be used as the applied laboratory.
+
+Another approved platform, historical dataset, or simulation may later be substituted.
+
+## GDEX IS THE LAB.
+
+## SYD IS THE CURRICULUM.
+
+---
+
+# MEDIA STRATEGY
+
+Existing long-form instructional media should be reused where academically appropriate.
+
+Each lesson may contain:
+
+EXISTING LONG-FORM MEDIA
+
++
+
+EXISTING SHORT
+
++
+
+NEW 1–3 MINUTE BRIDGE EXPLAINER IF NEEDED
+
++
+
+ASSIGNMENT
+
++
+
+ASSESSMENT
+
+Do not rerecord useful instruction unnecessarily.
+
+---
+
+# FINAL EVIDENCE
+
+The learner produces:
+
+## MARKET THESIS CARD
+
+and
+
+## AFTER-ACTION REVIEW
+
+---
+
+# ACADEMIC STATUS
+
+This is a SydTek Scholars course being designed for future institutional evaluation and licensing.
+
+Completion does not automatically create:
+
+- college credit,
+- transfer credit,
+- university admission,
+- professional licensure.
+
+---
+
+# NEXT MARKET CASES
+
+SYD-MKT-110 — Apple Market Case Lab
+
+SYD-MKT-120 — Alphabet Market Case Lab
+
+SYD-MKT-130 — Tesla Market Case Lab
+
+SYD-MKT-201 — Moderna Short Thesis Case Lab
+
+---
+
+# DOCTRINE
+
+## THE SYMBOL DOES NOT DEFINE THE INSTRUMENT.
+
+## A THESIS IS A HYPOTHESIS.
+
+## A THESIS WITHOUT INVALIDATION IS INCOMPLETE.
+
+## STUDY THE DECISION — NOT JUST THE P&L.
