@@ -10,7 +10,7 @@ Version: v0.1.0
 
 Division: SydTek Scholars
 
-Domain: Markets
+Domain: Traditional Markets / Stock Market Foundations
 
 Status: DESIGN
 
