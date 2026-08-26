@@ -48,6 +48,28 @@ Perform an after-action review that separates decision process from outcome.
 
 ---
 
+## CLO-9
+
+Distinguish stocks, indices, commodities, foreign exchange, and Pre-IPO market products.
+
+---
+
+## CLO-10
+
+Apply the SYD thesis framework across multiple traditional-market categories.
+
+---
+
+## CLO-11
+
+Explain why commodity catalysts may differ materially from equity catalysts.
+
+---
+
+## CLO-12
+
+Identify the actual instrument behind a Pre-IPO or commodity market label.
+
 # PROGRAM OUTCOME MAPPING
 
 CLO-1 → PLO-1 Market Literacy
