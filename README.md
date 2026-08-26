@@ -1,35 +1,62 @@
-# SYD-MKT-101 — The Stock Market on GDex
+# SYD
 
-## S&P 500 Long Thesis — Case Study 001
+## SYD Financial Markets & Technology
 
-**Division:** SydTek Scholars  
-**Domain:** Traditional Markets  
-**Version:** v0.1.0  
-**Status:** DESIGN  
-**Price Hypothesis:** $19  
-**Estimated Learning Time:** 2–3 hours  
-**Primary Platform Laboratory:** GDex  
-**Flagship Case Study:** CASE-001-SP500-LONG
+### A SydTek Scholars Curriculum
 
----
+> **MARKETS FIRST → TECHNOLOGY NEXT → CRYPTO LAST → EVIDENCE ALWAYS.**
 
-# PURPOSE
+SYD is a modular financial-markets, financial-technology, and emerging-infrastructure curriculum developed through SydTek Scholars.
 
-This is the foundational SYD stock-market course.
-
-The learner uses one live market environment to understand multiple traditional-market categories.
-
-The initial market universe includes:
+The curriculum begins where learners, finance departments, business schools, and working professionals already are:
 
 - Stocks
 - Indices
 - Commodities
-- Forex
-- Pre-IPO products
+- Foreign Exchange
+- Private and Pre-IPO Markets
+- Market Analysis
+- Risk
+- Execution
+- Market Structure
 
-The course begins with the S&P 500 long thesis as its flagship historical case.
+Only later does the curriculum progressively introduce:
 
-It then establishes a framework that can be reused across:
+- Financial Technology
+- APIs
+- Market Data
+- Artificial Intelligence
+- Automation
+- Digital Identity
+- Modern Settlement
+- Distributed Infrastructure
+- Blockchain
+- Digital Assets
+- Decentralized Systems
+
+Crypto is intentionally placed near the end of the learning pathway.
+
+Crypto is not the prerequisite.
+
+---
+
+# THE VISION
+
+## SYD begins where traditional finance students already are and ends where financial infrastructure is going.
+
+A learner does not need to begin with:
+
+Bitcoin.
+
+Ethereum.
+
+Solana.
+
+Tokens.
+
+DeFi.
+
+Instead, the learner can begin with markets they already recognize:
 
 Apple.
 
@@ -39,6 +66,8 @@ Tesla.
 
 Moderna.
 
+The S&P 500.
+
 Gold.
 
 Silver.
@@ -47,403 +76,170 @@ Oil.
 
 Natural Gas.
 
-Foreign exchange.
+Currencies.
 
-Pre-IPO markets.
+Private-company markets.
 
----
-
-# COURSE BOUNDARY
-
-This course does not require crypto.
-
-Bitcoin, Ethereum, Solana, DeFi, and crypto-native markets are taught separately.
-
-The purpose here is simple:
-
-## LEARN THE STOCK MARKET.
-
-## LEARN HOW MARKETS MOVE.
-
-## LEARN HOW TO FORM A THESIS.
-
-## LEARN HOW TO KNOW WHEN THE THESIS IS WRONG.
-
-It begins with something familiar:
-
-**markets.**
-
-The S&P 500.
-
-Apple.
-
-Alphabet / Google.
-
-Tesla.
-
-Moderna.
-
-Instead of asking a new learner to begin with blockchain terminology, consensus mechanisms, smart contracts, tokens, or cryptography, SYD begins with a question the learner already understands:
-
-> **What is this market doing?**
-
-From there, the learner develops the ability to:
-
-1. identify the actual financial instrument,
-2. observe price,
-3. understand market context,
-4. form a thesis,
-5. define what would make that thesis wrong,
-6. recognize risk,
-7. document a decision,
-8. observe the outcome,
-9. conduct an after-action review.
-
-Only after the learner understands the market experience does SYD reveal the technological infrastructure underneath it.
+These familiar markets become the front door.
 
 ---
 
-# WHY SYD EXISTS
+# THE CENTRAL EDUCATIONAL QUESTION
 
-SYD began with a simple observation:
+SYD begins with:
 
-People do not necessarily care that the infrastructure underneath a product uses blockchain.
+> What is this market?
 
-They care whether they can understand and use the product.
+Then:
 
-A learner interested in the S&P 500 does not need a lecture on Byzantine fault tolerance before understanding a long thesis.
+> What am I actually trading?
 
-Someone studying Apple does not first need to understand an Ethereum Virtual Machine.
+Then:
 
-A person learning how to trade a market does not need to become a blockchain engineer before learning:
+> What is my thesis?
 
-**THESIS → RISK → EXECUTION → REVIEW**
+Then:
 
-Blockchain becomes relevant when the learner eventually asks:
+> What would prove the thesis wrong?
 
-> How did my money get onto this platform?
+Then:
 
-> What is this wallet?
+> What risk am I taking?
 
-> What network am I using?
+Only after those questions are understood does the learner begin asking:
 
-> How does settlement happen?
+> How does the market infrastructure work?
 
-> What exactly am I trading?
+That progression leads naturally into:
 
-> Where does the price come from?
+- exchanges,
+- liquidity,
+- clearing,
+- settlement,
+- collateral,
+- custody,
+- market data,
+- APIs,
+- AI,
+- automation,
+- programmable infrastructure.
 
-> What is a smart contract doing?
+Blockchain then becomes one part of the financial-technology story.
 
-> Why is this transaction visible on-chain?
-
-At that point, blockchain education has context.
-
-SYD therefore teaches:
-
-# THE OUTCOME FIRST.
-
-# THE INFRASTRUCTURE SECOND.
+Not the opening assumption.
 
 ---
 
-# THE SYD DOCTRINE
+# THE SYD ACADEMIC SEQUENCE
 
-## 1. MARKET FIRST
+## PART I — FINANCIAL MARKETS
 
-Start with assets and markets people recognize.
+### Equity Markets
 
-Initial anchors:
+Initial case environments include:
 
-- S&P 500
 - Apple
-- Alphabet / Google
+- Alphabet
 - Tesla
 - Moderna
+- other listed companies
 
----
+Learners study:
 
-## 2. RAILS SECOND
-
-After the learner understands the market workflow, introduce:
-
-- accounts,
-- wallets,
-- funding,
-- stablecoins,
-- networks,
-- blockchain,
-- settlement,
-- smart contracts,
-- collateral,
-- oracles,
-- custody,
-- withdrawals.
-
----
-
-## 3. CRYPTO THIRD
-
-Only then move into crypto-native markets.
-
-Each receives its own learning path.
-
-- Bitcoin
-- Ethereum
-- Solana
-
-They are not treated as one generic thing called "crypto."
-
----
-
-## 4. ECOSYSTEM LABS AFTER THAT
-
-Later courses may use ecosystem projects and tokens as real laboratories.
-
-Examples may include:
-
-- $C
-- $GCB
-- $SYD
-- GCB
-- Golgotha / The Parable
-- THE HOUSE
-- NIL systems
-- token-gated communities
-- decentralized platforms
-
-Affiliation and economic interests must be disclosed.
-
----
-
-## 5. EVIDENCE ALWAYS
-
-Every serious case should preserve:
-
-- original thesis,
-- timestamp,
-- instrument,
-- market context,
+- company versus stock,
+- market price,
+- catalysts,
+- volatility,
+- thesis,
 - invalidation,
 - risk,
-- updates,
-- outcome,
-- errors,
 - after-action review.
 
-The repository should preserve losing ideas as well as winning ones.
+---
 
-The objective is not to make the record look perfect.
+## Index Markets
 
-The objective is to make the record useful.
+Initial flagship:
+
+- S&P 500
+
+Learners distinguish:
+
+**THE INDEX**
+
+from
+
+**THE ACTUAL FINANCIAL INSTRUMENT USED TO GAIN EXPOSURE.**
+
+Potential instruments may include:
+
+- ETFs,
+- futures,
+- options,
+- synthetic products,
+- other derivatives.
 
 ---
 
-# WHAT SYD IS
+## Commodity Markets
 
-SYD is simultaneously:
+Initial markets include:
 
-## A COURSE CATALOG
+- Gold
+- Silver
+- Crude Oil
+- Natural Gas
 
-Small courses that can be purchased and completed independently.
+Learners study how commodity catalysts differ from company-specific catalysts.
 
----
+Potential concepts include:
 
-## A STACKABLE LEARNING SYSTEM
-
-Microcourses may eventually combine into:
-
-- skill stacks,
-- certificates,
-- advanced certificates,
-- academic pathways,
-- research pathways.
-
----
-
-## A CURRICULUM DEVELOPMENT LAB
-
-Course ideas are created, revised, tested, and versioned here.
+- supply,
+- demand,
+- inventories,
+- weather,
+- industrial demand,
+- monetary demand,
+- interest rates,
+- geopolitics,
+- seasonality.
 
 ---
 
-## A RESEARCH DATASET
+## Foreign Exchange
 
-The development process itself can produce evidence.
+Learners study:
 
-Examples:
-
-- time to build a course,
-- learner completion,
-- assessment performance,
-- curriculum revisions,
-- conversion,
-- retention,
-- failed course concepts,
-- successful teaching formats.
+- currency pairs,
+- base and quote currencies,
+- central banks,
+- interest rates,
+- macroeconomic conditions,
+- geopolitical risk.
 
 ---
 
-## A PROVENANCE SYSTEM
+## Private and Pre-IPO Markets
 
-Git history documents when ideas, standards, courses, and policies appeared and changed.
+Learners study:
 
----
-
-## A RIGHTS SYSTEM
-
-Courses and media can be connected to:
-
-- creators,
-- instructors,
-- developers,
-- editors,
-- producers,
-- NIL participants,
-- rights owners.
-
----
-
-## A REVENUE SYSTEM
-
-Commercial objects can carry predefined revenue attribution.
-
-The long-term goal is:
-
-**CONTRIBUTION → ATTRIBUTION → REVENUE → PAYMENT → RECEIPT**
-
----
-
-## AN ECOSYSTEM SOP
-
-Once the system works for SYD, the same architecture can be reused by other projects.
-
----
-
-# WHAT SYD IS NOT
-
-SYD is not intended to be:
-
-- a signal room disguised as a university,
-- a promise of investment returns,
-- a mechanism for buying academic credit,
-- a token-promotion machine,
-- an excuse to call every blockchain transaction education,
-- a giant course learners are forced to purchase all at once.
-
-Students should be able to purchase the subject they actually want.
-
----
-
-# THE FIRST LEARNING PATH
-
-The initial sequence is deliberately simple.
-
-## SYD-MKT-000
-
-### Get On the Platform
-
-The onboarding course.
-
-The goal is to move the learner from:
-
-**ZERO → OPERATIONAL**
-
-Topics include:
-
-- account security,
-- 2FA,
-- wallets,
-- funding,
-- networks,
-- stablecoins where applicable,
-- platform deposits,
+- private-company markets,
+- price discovery,
+- liquidity,
+- access structures,
 - instrument identification,
-- withdrawal.
+- settlement,
+- regulatory distinctions.
+
+A company name does not automatically mean the learner owns private-company equity.
+
+The actual instrument must be identified.
 
 ---
 
-## SYD-MKT-101
+# PART II — MARKET ANALYSIS AND RISK
 
-### Trading the S&P 500: The Long Thesis
-
-The first flagship market case.
-
-Students study:
-
-- the S&P 500,
-- long theses,
-- chart context,
-- thesis formation,
-- invalidation,
-- position risk,
-- execution,
-- outcome,
-- after-action review.
-
-The historical case is the educational object.
-
-Students are not instructed to copy the position.
-
----
-
-## SYD-MKT-110
-
-### Trading Apple
-
-Apple introduces:
-
-**COMPANY ≠ STOCK ≠ TRADE**
-
-A great company does not automatically mean a good entry.
-
----
-
-## SYD-MKT-120
-
-### Trading Alphabet
-
-Repetition establishes process.
-
-Students apply the same framework to a different large-cap company.
-
----
-
-## SYD-MKT-130
-
-### Trading Tesla
-
-Tesla introduces:
-
-**VOLATILITY**
-
-The learner sees why identical position sizing across different assets can create different risk.
-
----
-
-## SYD-MKT-201
-
-### Trading Moderna: The Short Thesis
-
-The second flagship case.
-
-Moderna introduces:
-
-- bearish theses,
-- healthcare,
-- biotechnology,
-- sector-specific risk,
-- catalysts,
-- short-side considerations,
-- invalidation.
-
----
-
-# AFTER THE MARKET CASES
-
-The curriculum decomposes trading into independent microcourses.
-
-Examples:
+Learners progressively study:
 
 - Candlesticks
 - Timeframes
@@ -452,234 +248,478 @@ Examples:
 - Volume
 - Entries
 - Exits
+- Thesis Construction
 - Invalidation
 - Position Sizing
-- Risk / Reward
+- Risk and Reward
 - Trading Psychology
 - Trading Journals
-
-Learners can purchase one.
-
-Or several.
-
-Or eventually complete a defined stack.
+- After-Action Review
 
 ---
 
-# THEN THE LEARNER GOES UNDER THE HOOD
+# THE SYD DECISION FRAMEWORK
 
-## SYD-CHAIN-501
+OBSERVE
 
-### What Is Happening Under the Hood?
+↓
 
-Now blockchain matters.
+IDENTIFY THE INSTRUMENT
 
-The learner studies:
+↓
 
-- blockchain,
-- transactions,
-- wallets,
-- settlement,
-- collateral,
-- smart contracts,
-- oracles,
-- on-chain data,
-- off-chain data,
-- market-price references.
+FORM THE THESIS
 
-At this point the technical concepts answer questions the learner has already encountered.
+↓
 
----
+DEFINE INVALIDATION
 
-# CRYPTO-NATIVE PATHWAYS
+↓
 
-Crypto is separated into distinct laboratories.
+IDENTIFY RISK
 
-## SYD-BTC-600
+↓
 
-### Bitcoin Trading Lab
+DOCUMENT
 
-Bitcoin only.
+↓
 
----
+UPDATE
 
-## SYD-ETH-700
+↓
 
-### Ethereum Trading Lab
+CLOSE
 
-Ethereum and ETH are studied on their own terms.
+↓
+
+REVIEW
 
 ---
 
-## SYD-SOL-800
+# PART III — MARKET STRUCTURE
 
-### Solana Trading Lab
+The curriculum then moves underneath the market interface.
 
-Solana and SOL receive their own pathway.
+Learners study:
 
----
+- Exchanges
+- Brokers
+- Market Makers
+- Order Books
+- Liquidity
+- Spread
+- Slippage
+- Derivatives
+- Leverage
+- Collateral
+- Clearing
+- Settlement
+- Custody
+- Price Discovery
 
-# ECOSYSTEM TOKEN LABORATORIES
+The student moves from:
 
-Later laboratories may include ecosystem tokens.
+> What is this market doing?
 
-Examples:
+to:
 
-## SYD-TKN-901
-
-### Token Laboratory: $C
-
-## SYD-TKN-902
-
-### Token Laboratory: $GCB
-
-## FUTURE
-
-### $SYD Laboratory
-
-These courses must identify relevant conflicts.
-
-Examples include:
-
-- creator holdings,
-- instructor holdings,
-- developer holdings,
-- treasury holdings,
-- creator fees,
-- liquidity relationships,
-- promotional relationships.
-
-The objective is to study the system.
-
-Not conceal the relationship.
+> What system makes this market possible?
 
 ---
 
-# TOKEN FIREWALL
+# PART IV — FINANCIAL TECHNOLOGY
 
-This is a constitutional boundary.
+Financial technology may include:
 
-## TOKEN OWNERSHIP ≠ ACADEMIC ACHIEVEMENT
+- Digital trading platforms
+- Market-data systems
+- APIs
+- Algorithmic systems
+- Artificial intelligence
+- Automation
+- Digital identity
+- Cybersecurity
+- Payments
+- Digital settlement
+- Data provenance
 
-Holding $SYD or any other token does not automatically provide:
+---
 
-- a passing grade,
-- a certificate,
-- university credit,
-- admission,
-- a degree,
-- ownership of SydTek,
-- guaranteed income,
-- guaranteed returns.
+# PART V — EMERGING FINANCIAL INFRASTRUCTURE
+
+After the traditional financial system and financial technology are understood, the curriculum may introduce:
+
+- Distributed ledgers
+- Blockchain
+- Wallet infrastructure
+- Smart contracts
+- Oracles
+- Programmable settlement
+- On-chain provenance
+- Decentralized applications
+
+Blockchain is taught as infrastructure.
+
+Not ideology.
+
+---
+
+# PART VI — DIGITAL ASSETS
+
+Digital assets come later.
+
+Separate pathways may include:
+
+- Bitcoin
+- Ethereum
+- Solana
+
+Each is studied on its own terms.
+
+They are not treated as one generic object called "crypto."
+
+---
+
+# PART VII — ADVANCED DECENTRALIZED SYSTEMS
+
+Advanced study may include:
+
+- Tokens
+- Token Gating
+- Decentralized Finance
+- DAOs
+- DeSci
+- Digital Rights
+- Provenance
+- Decentralized Governance
+- Machine-Readable Institutions
+
+---
+
+# A STUDENT MAY NEVER STUDY CRYPTO
+
+That is acceptable.
+
+A learner may complete substantial study in:
+
+- equity markets,
+- indices,
+- commodities,
+- FX,
+- private markets,
+- market analysis,
+- risk,
+- market structure,
+- financial technology
+
+without entering a crypto-native course.
+
+Crypto is a specialization.
+
+Not the entrance requirement.
+
+---
+
+# INSTITUTIONAL VISION
+
+SYD is being designed so that the curriculum can eventually be evaluated, licensed, taught, adapted, or integrated by educational institutions.
+
+Potential institutional use cases may include:
+
+- individual courses,
+- professional certificates,
+- continuing education,
+- financial-literacy programs,
+- fintech programs,
+- business-school electives,
+- finance electives,
+- technology-management curricula,
+- faculty-led laboratories.
+
+These are design objectives.
+
+They are not claims of current accreditation, transferability, institutional adoption, or academic credit.
+
+---
+
+# UNIVERSITY-FACING DESIGN PRINCIPLE
+
+## THE CURRICULUM MUST BE VENDOR NEUTRAL.
+
+SYD teaches:
+
+- markets,
+- analytical frameworks,
+- risk,
+- market structure,
+- financial technology.
+
+A live platform may be used as a laboratory.
+
+The platform does not own the academic framework.
+
+---
+
+# APPLIED MARKET LABORATORY
+
+GDex may serve as an applied market laboratory for selected SYD courses.
+
+Where used, learners may observe traditional-market categories such as:
+
+- Stocks
+- Indices
+- Commodities
+- FX
+- Pre-IPO
+
+Platform products, availability, rules, and jurisdictions may change.
+
+Every course must identify the actual instrument being studied.
+
+GDex is the laboratory.
+
+SYD is the curriculum.
+
+---
+
+# THE FIRST COURSE PATHWAY
+
+## SYD-MKT-000
+
+### Financial Markets Orientation & Platform Onboarding
+
+Learners understand:
+
+- security,
+- account/platform navigation,
+- funding architecture where relevant,
+- market categories,
+- instrument identification,
+- withdrawal and exit paths.
+
+---
+
+## SYD-MKT-101
+
+### Financial Markets I: Equity & Index Markets
+
+Primary historical case:
+
+**CASE-001 — S&P 500 Long Thesis**
+
+Additional market laboratories progressively include:
+
+- Apple
+- Alphabet
+- Tesla
+- Moderna
+
+---
+
+# THEN THE MARKET EXPANDS
+
+Future pathways include:
+
+## Commodities
+
+Gold.
+
+Silver.
+
+Crude Oil.
+
+Natural Gas.
+
+## Foreign Exchange
+
+Currency pairs.
+
+Central banks.
+
+Macro conditions.
+
+## Private Markets
+
+Private-company and Pre-IPO market structures.
+
+---
+
+# LIVE MARKET LAYER
+
+SYD also contains a separate commercial/live-market architecture.
+
+This is distinct from the university-facing academic curriculum.
+
+## SYD | WIRE
+
+Public market-information and educational channel.
+
+A predetermined portion of formal SYD Calls may be published publicly.
+
+## SYD | THE FLOOR
+
+Separate gated live-market information service.
+
+It is not required for completion of the academic curriculum.
+
+---
+
+# THE ACADEMIC FIREWALL
+
+A learner does not need:
+
+- $SYD,
+- Telegram access,
+- THE FLOOR membership,
+- token ownership
+
+to demonstrate academic mastery of a normal SYD course.
 
 Academic achievement follows:
 
-**LEARN**
+LEARN
 
 ↓
 
-**ASSESS**
+ASSESS
 
 ↓
 
-**DEMONSTRATE**
+DEMONSTRATE
 
 ↓
 
-**PASS**
+PASS
 
 ↓
 
-**RECORD**
+RECORD
 
 ---
 
-# THE INSTITUTIONAL ARCHITECTURE
+# TOKEN OWNERSHIP ≠ ACADEMIC ACHIEVEMENT
 
-## SydTek Scholars
+Token ownership does not automatically create:
 
-The open and modular learning layer.
-
-This repository begins here.
-
-SydTek Scholars can support:
-
-- microcourses,
-- professional learning,
-- laboratories,
-- open research,
-- DeSci,
-- experimental curricula,
-- portfolio evidence.
+- a passing grade,
+- academic credit,
+- admission,
+- degree status,
+- university ownership,
+- intellectual-property ownership,
+- guaranteed financial return.
 
 ---
 
-## SydTek University
+# SYDTEK SCHOLARS
 
-The intended formal academic pathway.
+SydTek Scholars is the rapid curriculum-development and open-learning layer.
 
-SydTek Scholars courses may be designed so they can later be evaluated within a more formal academic structure.
+Scholars can:
 
-That does not automatically mean present university credit.
+- build,
+- test,
+- revise,
+- measure,
+- archive.
 
-Formal academic recognition must follow actual:
+Microcourses can be independently valuable.
 
-- institutional policy,
-- faculty review,
-- authorization,
-- academic standards,
-- accreditation requirements,
-- applicable law.
+They may later be assembled into larger learning stacks.
 
 ---
 
-## SydTek Seminary
+# SYDTEK UNIVERSITY
 
-The theology and ethics layer.
+SydTek University represents the intended formal academic pathway.
 
-Potential areas include:
+A Scholars course does not automatically become university credit.
 
-- truth,
-- witnesses,
+Potential progression:
+
+SCHOLARS COURSE
+
+↓
+
+LEARNING OUTCOMES
+
+↓
+
+ASSESSMENT
+
+↓
+
+LEARNER EVIDENCE
+
+↓
+
+ACADEMIC REVIEW
+
+↓
+
+APPROVE / REVISE / REJECT
+
+↓
+
+FORMAL RECOGNITION ONLY IF ACTUALLY AUTHORIZED
+
+---
+
+# SYDTEK SEMINARY
+
+SydTek Seminary represents the theology and ethics layer.
+
+It may examine:
+
 - stewardship,
-- ownership,
-- debt,
-- economic justice,
+- markets,
 - technology,
+- ownership,
+- identity,
 - AI,
 - human dignity,
-- digital identity,
-- immutable records,
-- centralized and decentralized authority.
+- evidence,
+- institutional power.
 
-Technical engineering and theology remain academically distinguishable.
+Technical questions and theological questions remain distinguishable.
 
 ---
 
-# THE LARGER ECOSYSTEM
+# WHAT SYD IS
 
-SYD is being designed so its SOP can eventually support:
+SYD is simultaneously:
 
-- Goldstonian Concordance Bible
-- The Goldstonian Civil War
-- Gettysburg
-- Annapolis
-- Best Farm
-- Golgotha / The Parable
-- THE HOUSE
-- G Rune Publishing
-- music
-- film
-- NIL
-- AI
-- DeSci
-- decentralized organizations
-- token-gated communities
-- creator economies
+## A CURRICULUM
 
-SYD teaches the architecture.
+Structured educational material.
 
-The ecosystem provides laboratories.
+## A COURSE FACTORY
+
+Ideas become measurable learning objects.
+
+## A CASE-STUDY SYSTEM
+
+Real-world events can become documented educational cases.
+
+## A RESEARCH SYSTEM
+
+Course development and learner evidence can generate research questions.
+
+## A PROVENANCE SYSTEM
+
+Git records how the curriculum changes.
+
+## A RIGHTS SYSTEM
+
+Creators, instructors, developers, guests, and NIL participants can be documented.
+
+## AN ECONOMIC SYSTEM
+
+Contributions can connect to defined project economics.
+
+## AN OPERATING SYSTEM
+
+The same infrastructure may eventually support other domains.
 
 ---
 
@@ -687,129 +727,179 @@ The ecosystem provides laboratories.
 
 Example:
 
-`SYD-MKT-101`
+SYD-MKT-101
 
-The ID should remain stable.
+The ID identifies the course.
 
-The content receives versions.
+The version identifies the state of the course.
 
 Example:
 
-`SYD-MKT-101 v0.1.0`
+SYD-MKT-101 v0.1.0
 
 Later:
 
-`SYD-MKT-101 v1.0.0`
-
-Git documents what changed.
+SYD-MKT-101 v1.0.0
 
 ---
 
-# EVERY COURSE SHOULD EVENTUALLY CONTAIN
+# EVERY FORMAL COURSE SHOULD EVENTUALLY CONTAIN
 
-- ID
-- title
-- version
-- description
-- level
-- prerequisites
-- learning hours
-- learning outcomes
-- modules
-- activities
-- assessments
-- rubric
-- passing standard
-- resources
-- instructor record
-- rights information
-- contributor information
-- NIL information when applicable
-- revision history
-- evidence
-- publication status
+- Course ID
+- Version
+- Status
+- Description
+- Prerequisites
+- Learning hours
+- Learning outcomes
+- Modules
+- Activities
+- Assessment
+- Rubric
+- Passing standard
+- Learner evidence
+- Instructor record
+- Rights information
+- Contributor information
+- Revision history
+- Publication status
 
 ---
 
 # MICROCOURSE PHILOSOPHY
 
-Do not begin by selling the learner an entire degree.
+Do not force every learner into a giant program.
 
-Sell the next thing they want to learn.
+A learner may want:
 
-Example:
+Gold.
 
-Someone wants to understand candlesticks.
+They take Gold.
 
-They take Candlesticks.
+A learner may want:
 
-Someone wants Moderna.
+Position Sizing.
 
-They take Moderna.
+They take Position Sizing.
 
-Someone wants Bitcoin.
+A learner may want:
 
-They take Bitcoin.
+Artificial Intelligence in Finance.
 
-Someone wants to build a decentralized application.
+They take that course.
 
-They take that pathway.
+A learner may later stack multiple courses into a larger pathway.
 
-If they continue, the courses can stack.
+The learner controls depth.
 
-## COURSE
-
-↓
-
-## STACK
-
-↓
-
-## CERTIFICATE
-
-↓
-
-## ADVANCED PATHWAY
-
-↓
-
-## POTENTIAL UNIVERSITY EVALUATION
-
-The learner controls how far they go.
+The system controls evidence.
 
 ---
 
-# EVERY PROJECT CAN HAVE A PASSPORT
+# PROVENANCE
 
-The same system extends beyond courses.
+GitHub is not merely storage.
 
-A project passport can identify:
+GitHub preserves:
 
-- Project ID
-- creator
-- instructor
-- developer
-- editor
-- producer
-- NIL participant
-- affiliate
-- rights owner
-- revenue allocation
-- token relationship
-- publication channels
-- evidence.
+- commits,
+- timestamps,
+- versions,
+- contributors,
+- issues,
+- pull requests,
+- decisions,
+- pivots.
+
+The development record is part of the experiment.
+
+Do not erase every failed idea merely to make development look cleaner.
 
 ---
 
-# NIL PRINCIPLE
+# CASE STUDIES
+
+A market case should preserve:
+
+- what was known before the result,
+- the actual instrument,
+- the original thesis,
+- invalidation,
+- risk,
+- updates,
+- outcome,
+- after-action review.
+
+Do not rewrite a historical prediction after knowing the outcome.
+
+---
+
+# TELEGRAM → GITHUB → CURRICULUM
+
+A formal live-market case may eventually travel through:
+
+SYD CALL
+
+↓
+
+TIMESTAMP
+
+↓
+
+UPDATES
+
+↓
+
+CLOSE
+
+↓
+
+CASE STUDY
+
+↓
+
+GITHUB EVIDENCE
+
+↓
+
+SYD COURSE
+
+↓
+
+ASSESSMENT
+
+↓
+
+LEARNER EVIDENCE
+
+↓
+
+RESEARCH
+
+---
+
+# RIGHTS
+
+Rights follow the asset.
+
+Every significant commercial asset should eventually be able to answer:
+
+- who created it,
+- who owns it,
+- who appears in it,
+- what permissions exist,
+- how it can be used,
+- who participates economically.
+
+---
+
+# NIL
 
 ## NIL OFFER BY DEFAULT.
 
 ## NEVER NIL TRANSFER BY DEFAULT.
 
-A person does not surrender their identity simply by appearing inside the ecosystem.
-
-Potential commercial uses of:
+A person does not surrender their:
 
 - name,
 - image,
@@ -817,255 +907,220 @@ Potential commercial uses of:
 - voice,
 - biography,
 - performance,
-- digital replica
+- digital-replica rights
 
-should be governed by permission.
+simply by participating in the ecosystem.
 
 ---
 
-# AI PRINCIPLE
+# AI
 
 AI may assist:
 
 - research,
-- curriculum design,
+- curriculum development,
+- analysis,
 - transcription,
-- editing,
 - organization,
+- code,
+- classification,
 - assessment support,
-- provenance,
-- rights checking,
-- analytics.
+- provenance.
 
-But:
+Core principle:
 
 ## AUGMENTATION WITHOUT ABDICATION.
 
-Human authority remains required where judgment, rights, academic authority, or accountability require it.
+Human responsibility remains where human authority is required.
 
 ---
 
-# REVENUE PRINCIPLE
+# THE CONTROL TOWER
 
-The long-term objective is to prevent contributors from disappearing inside the production chain.
+The long-term Control Tower is the system of record.
 
-The desired flow is:
+It should progressively track:
 
-**CREATOR**
-
-↓
-
-**CONTRIBUTION**
-
-↓
-
-**PROJECT**
-
-↓
-
-**SALE**
-
-↓
-
-**ATTRIBUTION**
-
-↓
-
-**SPLIT**
-
-↓
-
-**PAYMENT**
-
-↓
-
-**RECEIPT**
-
-Contributors should know why they were paid.
-
-The system should know why they were paid.
-
----
-
-# PROVENANCE PRINCIPLE
-
-## PROVENANCE = SUPPLY CHAIN OF TRUST.
-
-Where appropriate, preserve:
-
-- source artifact,
-- timestamp,
-- creator,
+- projects,
+- courses,
 - rights,
-- version,
-- transaction,
-- revision,
-- payment,
-- evidence.
-
-Blockchain may become one provenance rail.
-
-Git is already another.
+- contributors,
+- versions,
+- budgets,
+- revenue rules,
+- payments,
+- academic status,
+- legal status,
+- evidence gates,
+- next actions.
 
 ---
 
-# WHY GITHUB MATTERS
+# CONTRIBUTOR ECONOMICS
 
-This repository is not merely storage.
+The long-term objective is:
+
+CONTRIBUTION
+
+↓
+
+ATTRIBUTION
+
+↓
+
+COMMERCIAL EVENT
+
+↓
+
+CALCULATED SHARE
+
+↓
+
+PAYMENT
+
+↓
+
+RECEIPT
+
+↓
+
+AUDIT RECORD
+
+---
+
+# CORE ECONOMIC PRINCIPLE
+
+## CONTRIBUTION SHOULD BE ATTRIBUTABLE.
+
+## ATTRIBUTION SHOULD BE DOCUMENTED.
+
+## COMPENSATION SHOULD BE TRACEABLE.
+
+## PAYMENT SHOULD PRODUCE A RECEIPT.
+
+---
+
+# BUILDING IN PUBLIC
 
 The repository itself is part of the experiment.
 
-GitHub provides:
+Preserve:
 
-- commits,
-- timestamps,
-- history,
-- versions,
-- diffs,
-- contributors,
-- releases,
-- issues,
-- pull requests.
+- pivots,
+- failures,
+- corrections,
+- abandoned ideas,
+- replaced structures,
+- successful experiments.
 
-That means the development process becomes observable.
+A correction is evidence.
 
-Do not clean away every failed idea.
-
-Do not rewrite the history to make development appear predetermined.
-
-The pivots matter.
+A failure is evidence.
 
 ---
 
-# BUILD METRIC
-
-The first canonical development metric is:
+# CANONICAL BUILD METRIC
 
 ## REPO-TO-LIVE
 
-**REPO-TO-LIVE = Tfinal − T0**
+REPO-TO-LIVE = Tfinal − T0
 
-Where:
-
-### T0
+T0:
 
 Genesis commit.
 
-### Tfinal
+Tfinal:
 
-The point at which the predefined Day-0 launch gates have passed.
+The point at which the defined Day-Zero launch gates are passed.
 
-This repository will document the checkpoints between those events.
+See:
+
+BUILD_LOG.md
 
 ---
 
 # NOTE TO MY FUTURE SELF
 
-This section exists because this repository is also an operating notebook.
+SYD did not begin because the world needed another crypto course.
 
-If I return here months or years later, remember why SYD started.
+The original question was larger:
 
-The original problem was not:
-
-> How do I build another crypto course?
-
-The original problem was:
-
-> How do I get someone interested in ordinary markets onto a decentralized platform without making the technology itself the obstacle?
+> How do we teach someone to use and understand emerging financial infrastructure without making the infrastructure itself the first obstacle?
 
 The answer became:
 
-**Start with what they recognize.**
+Start with what they recognize.
 
-S&P 500.
+Stocks.
 
-Apple.
+Indices.
 
-Google.
+Gold.
 
-Tesla.
+Oil.
 
-Moderna.
+Currencies.
+
+Private markets.
 
 Teach the market.
 
-Teach the decision.
+Teach the instrument.
 
-Teach the risk.
+Teach the thesis.
 
-Then reveal the rails.
+Teach invalidation.
 
-Then Bitcoin.
+Teach risk.
 
-Then Ethereum.
+Then teach the system underneath it.
 
-Then Solana.
+Then financial technology.
 
-Then the ecosystem.
+Then automation.
 
-At the same time, build the underlying operating system so:
+Then AI.
 
-- instructors get paid,
-- developers get paid,
-- producers get paid,
-- NIL participants get paid,
-- institutions get paid,
-- affiliates get paid,
-- rights remain documented,
-- courses remain versioned,
-- learning remains assessable,
-- the evidence remains preserved.
+Then programmable infrastructure.
 
-SYD is therefore not merely a course.
+Then blockchain.
 
-SYD is the attempt to create a reusable operating system for learning, digital rights, decentralized infrastructure, provenance, and contributor economics.
+Then digital assets.
 
-If the project becomes complicated later, return to the original sequence:
+Crypto comes last.
 
-## ONBOARD.
+If SYD becomes complicated later, return to the sequence:
 
-## TEACH SOMETHING USEFUL.
+## TEACH SOMETHING FAMILIAR.
 
-## ASSESS IT.
+## MAKE THE LEARNER DEMONSTRATE IT.
 
-## DOCUMENT IT.
+## PRESERVE THE EVIDENCE.
 
-## PAY THE PEOPLE WHO BUILT IT.
+## INTRODUCE THE NEXT LAYER ONLY WHEN IT SOLVES A QUESTION THE LEARNER NOW UNDERSTANDS.
 
-## PRESERVE THE RECEIPT.
-
-Then build the next thing.
+That is the architecture.
 
 ---
 
 # CURRENT STATUS
 
-**PHASE: DAY 0**
+**PHASE:** DAY 0 / ACTIVE DEVELOPMENT
 
-**STATE: GENESIS / ACTIVE DEVELOPMENT**
+**ACADEMIC BRAND:** SYD Financial Markets & Technology
 
-**CANONICAL METRIC: REPO-TO-LIVE**
+**INSTITUTIONAL HOME:** SydTek Scholars
 
-See:
+**CANONICAL DOCTRINE:**
 
-- `BUILD_LOG.md`
-- `ROADMAP.md`
-- `curriculum/`
-- `courses/`
-- `accreditation/`
-- `rights/`
-- `revenue/`
-- `token/`
-- `provenance/`
+MARKETS FIRST.
+
+TECHNOLOGY NEXT.
+
+CRYPTO LAST.
+
+EVIDENCE ALWAYS.
 
 ---
 
-# BUILD IN PUBLIC
-
-The repository begins before the finished institution.
-
-That is intentional.
-
-The evidence is being created while the system is being created.
-
-**THE RECORD STARTS HERE.**
+# THE RECORD CONTINUES HERE.
