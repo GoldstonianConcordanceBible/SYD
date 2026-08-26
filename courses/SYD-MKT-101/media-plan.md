@@ -19,6 +19,50 @@ Videos:
 9. The Result
 10. After-Action Review
 
+# STOCK MARKET MASTER PLAYLIST
+
+The larger playlist should become:
+
+SYD — THE STOCK MARKET ON GDEX
+
+Episodes may include:
+
+1. Start Here: The GDex Market Universe
+2. What Is the S&P 500?
+3. Index vs Instrument
+4. The S&P 500 Long Thesis
+5. Trading Apple
+6. Trading Google
+7. Trading Tesla
+8. Trading Moderna
+9. Trading Gold
+10. Trading Silver
+11. Trading Oil
+12. Trading Natural Gas
+13. What Is Forex?
+14. Understanding Currency Pairs
+15. What Does Pre-IPO Mean?
+16. What Are You Actually Trading?
+17. Thesis
+18. Invalidation
+19. Risk
+20. After-Action Review
+
+---
+
+# POSITIONING
+
+Do not market this playlist as:
+
+"Learn crypto."
+
+Market it as:
+
+## LEARN THE STOCK MARKET ON A DECENTRALIZED TRADING PLATFORM.
+
+The blockchain can remain underneath the experience.
+
+The learner does not need to study it yet.
 ---
 
 # SHORTS
